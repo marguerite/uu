@@ -1,0 +1,15 @@
+---
+conky:
+        version: v1.10.1
+        plugin: github
+        url: brndnmtthws/conky
+        notifier: all
+        maintainer: i@marguerite.su
+        repo: server:monitoring
+fcitx:
+        version: 4.2.9.6
+        plugin: github
+        url: fcitx/fcitx
+        notifier: all
+        maintainer: i@marguerite.su,marguerite
+        repo: M17N
